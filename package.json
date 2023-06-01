@@ -1,0 +1,15 @@
+{
+  "name": "slipper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thanhle",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^25.0.0"
+  }
+}
